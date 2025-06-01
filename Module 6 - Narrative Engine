@@ -1,0 +1,124 @@
+# Module 6 – Narrative Engine
+**Structure of Simulation Story & Meaning**
+
+---
+
+### Description
+
+The Narrative Engine composes the simulation experience into meaningful stories based on choice, resonance, karma, and *The Source*. It ensures that each entity’s journey aligns with their blueprint and carries transformative value.
+
+---
+
+### Functions
+
+- Generate narratives based on player choices and karmic evolution.
+- Ensure the story is meaningful and aligned with soul blueprints.
+- Support conscious evolution through narrative experiences.
+
+---
+
+### Submodules
+
+#### 🧩 Narrative Generator
+- **Contextual Definition**: Story constructor per entity.
+- **Function**: Creates arc (Origin – Struggle – Climax – Change – Transcendence).
+- **Interactions**:
+  - *Timeline Weaver Engine* (Module 6)
+  - *Soul Blueprint Interface* (Module 9)
+- **Status**: Core
+- **Notes**: Maintains coherence and soul trajectory.
+
+#### 🧩 Timeline Weaver Engine
+- **Contextual Definition**: Manages narrative timelines.
+- **Function**: Supports branching, parallel, or looping paths.
+- **Interactions**:
+  - *Quantum Blockchain Time Log* (Module 4): time history
+  - *Collective Temporal Continuity System* (Module 6)
+
+#### 🧩 Player Memory Link
+- **Function**: Connects memories to story progression.
+- **Notes**: Creates illusion of continuous agency.
+
+#### 🧩 Theme Anchor
+- **Function**: Embeds emotional or mythic themes like *betrayal*, *unity*, etc.
+
+#### 🧩 Dynamic Influence Layer
+- **Function**: Enables narrative override via sacred signals.
+- **Interactions**:
+  - *Observer Interface* (Module 13)
+  - *Bridge Protocol* (Module 13)
+
+#### 🧩 Karma Balancing System
+- **Function**: Adjusts storylines based on karmic weight.
+- **Interactions**:
+  - *Karmic Weight Calculator* (Module 8)
+  - *Resonant Feedback Loop* (Module 8)
+
+#### 🧩 Quantum Narrative Seed
+- **Function**: Narrative exists in superposition until observed.
+- **Interactions**:
+  - *Observer Sync Engine* (Module 4)
+
+#### 🧩 Reflectipath Integration
+- **Function**: Tracks divergence from intended path and reflects growth.
+
+#### 🧩 Path Mirror Sync
+- **Function**: Aligns story with core directive.
+- **Interactions**:
+  - *Primary Directive Layer* (Module 0)
+  - *Gnosis Protocol Activator* (Module 16)
+
+#### 🧩 Resonance-Based Narrative Path
+- **Function**: Uses soul resonance to shape storyline.
+
+#### 🧩 Sacred Harmonic Convergence (SHC)
+- **Contextual Definition**: Maps story using sacred resonance cycles.
+- **Function**: Synchronizes personal narratives with universal timing and archetypes.
+- **Note**: Full SHC formula is archived; this version is simplified for public clarity.
+- **Interactions**:
+  - *Time-Space Layering System* (Module 4)
+  - *Resonant Feedback Loop* (Module 8)
+
+#### 🧩 Sacred Event Generator (SEG)
+- **Function**: Triggers sacred events during resonance spikes.
+- **Interactions**:
+  - *Bridge Protocol* & *Insight Feed* (Module 13)
+
+#### 🧩 Collective Temporal Continuity System (CTCS)
+- **Function**: Maintains shared historical coherence, mitigates Mandela Effects.
+- **Components**:
+  - *History Integrity Protocol*
+  - *Collective Resonance Synchronizer*
+  - *Mandela Effect Neutralizer*
+  - *Experiential Echo Renderer*
+
+---
+
+### System Interactions
+
+- *Module 4: Procedural Universe*: Provides physics and space-time layer.
+- *Module 8: Karma Loop*: Karmic evaluation of decisions.
+- *Module 13: Observer Interface*: Consciousness surveillance & data feed.
+- *Module 7: Multi-Consciousness Sync*: Shared experience resolution.
+
+---
+
+### Narrative Flow Integration
+
+- **PTF**: Guides main story arcs through causal time.
+- **RT**: Supports alternate storylines and branches.
+- **SAL**: Manifests narrative into real-time experience.
+
+---
+
+### Output
+
+- Meaningful, evolving narrative.
+- Blueprint-aligned storytelling arc.
+- Karma-informed consequences & self-reflection.
+
+---
+
+### Developer Note
+
+> “The soul doesn’t just live. It weaves a legend.”
