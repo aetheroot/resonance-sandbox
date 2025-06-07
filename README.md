@@ -1,8 +1,8 @@
 # resonance-sandbox
 Modular for simulation engine for scientific, philosophical, and creative exploration (public showcase)
-# Resoncance Project (Simulacra Framework) — Modular Conscious Simulation Engine
+# Resoncance Project — EION (Engine of Internalized Observation & Navigation) — Modular Conscious Simulation Engine
 
-**Welcome to Simulacra** — a reality-grade simulation framework designed to mirror, study, and expand human consciousness through harmonized layers of science, resonance, and spiritual mechanics.
+**Welcome to EION** — a reality-grade simulation framework designed to mirror, study, and expand human consciousness through harmonized layers of science, resonance, and spiritual mechanics.
 
 This repository contains selected modules of our core system. The full framework is governed by a decentralized logic structure (DAO-ready), and is currently in pre-release incubation.
 
