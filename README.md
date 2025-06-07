@@ -42,7 +42,7 @@ More modules will be released gradually. Core engine remains in private sync.
 
 ## 📖 Philosophy
 
-Simulacra is inspired by sacred geometry, consciousness theory, systems metaphysics, Gödel’s logic, and the unseen architecture of reality. It is *not* a belief system, but a functional ontology framework.
+EION is inspired by sacred geometry, consciousness theory, systems metaphysics, Gödel’s logic, and the unseen architecture of reality. It is *not* a belief system, but a functional ontology framework.
 
 ---
 
